@@ -1,0 +1,28 @@
+.progressContainer {
+    float: left;
+    width: 100%;
+    height: 15px;
+    background: black;
+}
+
+#barOne {
+    float: right;
+    height: 15px;
+    background: red;
+    width: 0%;
+}
+
+.progressContainerTwo {
+    float: right;
+    width: 100%;
+    height: 15px;
+    background: black;
+}
+
+#barTwo {
+    float: left;
+    height: 15px;
+    background: red;
+    width: 100%;
+}
+
